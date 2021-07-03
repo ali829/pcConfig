@@ -1,0 +1,9 @@
+
+    Your Operating-System is : Windows 10 Pro 
+
+    Your Size Pointer is: win32 
+
+    Your Total Memory is: 8 GB 
+
+    Your Free Memory is: 2 GB 
+    
